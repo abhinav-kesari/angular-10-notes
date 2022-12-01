@@ -12,7 +12,7 @@ Angular CLI
     -> node -v 
 
 2. Check for the npm version 
-    -> npm -v \
+    -> npm -v 
 
 3. To install Angular CLI 
     npm i -g @angular/cli 
