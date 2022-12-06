@@ -20,7 +20,7 @@ title
 1. Dynamic table columns 
     -> colCount 
 
-2. Lining of Images from AWS s3 buckets 
+2. Linking of Images from AWS s3 buckets 
     -> 
 
 3. Ofcourse binding of style propeties 
