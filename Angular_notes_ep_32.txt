@@ -6,7 +6,8 @@ Episode #32 - Parameterizing Pipes
 2. Some of the built in pipes which accept parameters are:
 
     - currency 
-            <div>{{ currencyExample | currency : 'Rupee'  }}</div>
+            <div>{{ currencyExample | currency : 'INR'  }}</div>
+            <div>{{ currencyExample | currency : 'USD'  }}</div>
     
     - date 
         'MMM-dd-yyyy'
