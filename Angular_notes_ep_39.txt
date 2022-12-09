@@ -17,5 +17,7 @@ Episode #39 - Base Href
 5. It decides where you want to deploy your app 
     - thats why its extremely important 
 
-6. <base href="/">
+6. ng build --base-href="<path>" 
+
+   <base href="/">
 
